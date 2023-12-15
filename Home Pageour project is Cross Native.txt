@@ -1,3 +1,0 @@
-Home Page:our project is Cross Native first,that navigated navigates different pages ,such as,basic designs and layouts,page design,basic interactions,navigation,consistent branding like color scheme,font and images and user feedback 
-
-Home Page: Cross Native first, is the project that navigates to different pages, with basic designs, layouts studied in the course.
